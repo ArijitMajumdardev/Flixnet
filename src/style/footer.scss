@@ -1,0 +1,13 @@
+.foot{
+    height: 25vh;
+    width:100vw;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items:end;        
+    box-shadow: 3px 0px 5px grey;
+    .rights{
+
+       padding: 40px;
+    }
+}
